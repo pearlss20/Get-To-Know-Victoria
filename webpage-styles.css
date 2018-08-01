@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-family: "garamond";
+  color: purple;
+  font-weight: bold;
+  font-size: 45px;
+}
+h2 {
+  text-align: left;
+  font-family: "fantasy";
+  color: #000FFF;
+  font-weight: bold;
+  font-size: 29px;
+}
+h3 {
+  text-align: left;
+  font-family: "fantasy";
+  color: pink;
+  font-weight: bold;
+  font-size: 29px;
+}
+h4 {
+  text-align: left;
+  font-family: "fantasy";
+  color: Blue;
+  font-weight: bold;
+  font-size: 29px;
+}
+h5 {
+  text-align: left;
+  font-family: "fantasy";
+  color: Purple;
+  font-weight: bold;
+  font-size: 29px;
+}
+h6 {
+  text-align: left;
+  font-family: "fantasy";
+  color: #A52A2A;
+  font-weight: bold;
+  font-size: 29px;
+}
+ h6 {
+text-align: left;
+font-size: 16;
+color: black;
+font-weight: bold;
+font-size: 29px;
